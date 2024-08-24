@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336936600150",
+    "project_id": "gyaan-53919",
+    "storage_bucket": "gyaan-53919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336936600150:android:a072204f59292bfdb331f7",
+        "android_client_info": {
+          "package_name": "com.example.gyaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrGdIklEzpAQ73iSz8tBjf1uZlIzFbwFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
